@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eduarde     souza
+- 👋 Hi, I’m @eduardesouza
 - 👀 I’m interested in  aprender novas lingugagens de progra
-- 🌱 I’m currently learning ...HTML5 e CSS3 no curso em video
+- 🌱 I’m currently learning ...HTML5, CSS3 and JavaScript on the gustavo guanabara video course website
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
