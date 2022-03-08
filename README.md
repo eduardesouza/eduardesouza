@@ -1,8 +1,8 @@
--## Olá, eu sou o @eduardesouza
+## Olá, eu sou o @eduardesouza
 <div>
-  <a href="https://github.com/eduardesouza">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eduardesouza&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardesouza&layout=compact&langs_count=16&theme=nord"/>
+<a href="https://github.com/eduardesouza">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eduardesouza&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardesouza&layout=compact&langs_count=16&theme=nord"/>
 </div>
   
  <div> 
@@ -14,10 +14,8 @@
 
 </div>
   
-  
-
 - 👀 I’m interested in  aprender novas lingugagens de programação
-- 🌱 I’m currently learning ...HTML5, CSS3 and JavaScript on the gustavo guanabara video course website
+- 🌱 I’m currently learning ...HTML5, CSS3 and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
