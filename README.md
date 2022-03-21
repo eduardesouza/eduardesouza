@@ -13,10 +13,10 @@ Atualmente estudando sobre HTML+CSS e JavaScript.
 
 ## Minhas redes
  <div style="display: inline_block"><br/>
-<a href="https://www.linkedin.com/in/eduardoesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/eduardesouza" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduardoesouza/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/eduardesouza" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contatoeduardo856@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <div style="display: inline_block"><br/>
  
 <a href="https://github.com/eduardesouza">
@@ -25,4 +25,4 @@ Atualmente estudando sobre HTML+CSS e JavaScript.
 </a>
 </div>
 
-Apaixonado por tecnologia, hoje um aprendiz, amanhã só Deus sabe onde chegarei.
+Apaixonado por tecnologia.
