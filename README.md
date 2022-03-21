@@ -18,10 +18,11 @@ Atualmente estudando sobre HTML+CSS e JavaScript.
 <a href = "mailto:contatoeduardo856@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <div style="display: inline_block"><br/>
-  
+ 
 <a href="https://github.com/eduardesouza">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=eduardesouza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardesouza&layout=compact&langs_count=16&theme=gotham"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=eduardesouza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="max-width: 100%;">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardesouza&layout=compact&langs_count=16&theme=gotham" style="max-width: 100%;">
+</a>
 </div>
 
 Apaixonado por tecnologia, hoje um aprendiz, amanhã só Deus sabe onde chegarei.
