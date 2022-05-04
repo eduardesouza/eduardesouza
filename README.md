@@ -1,8 +1,8 @@
 ## Olá, eu sou o Eduardo de Souza 🖐️
 
 
-Atualmente estudando sobre HTML+CSS e JavaScript. <br>
-Procurando diariamente aprender mais e mais.
+Atualmente estudando sobre HTML5+CSS3 e JavaScript. <br>
+Aprendendo como criar paginas web focando no conteúdo,design e criar interações entre o usuário e as páginas.
 
 ## Meus projetos feitos no gitbhub <br>
 * <a href="https://eduardesouza.github.io/landingpage/" target="_blank">Landingpage</a><br>
