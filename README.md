@@ -1,13 +1,14 @@
 ## Olá, eu sou o Eduardo de Souza 🖐️
 
 
-Atualmente estudando sobre HTML+CSS e JavaScript.
+Atualmente estudando sobre HTML+CSS e JavaScript. <br>
+Procurando diariamente aprender mais e mais.
 
 ## Meus projetos feitos no gitbhub <br>
-<a href="https://eduardesouza.github.io/landingpage/" target="_blank">Landingpage</a><br>
-<a href="https://eduardesouza.github.io/calculator/" target="_blank">Calculadora</a><br>
-<a href="https://eduardesouza.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a><br>
-<a href="https://eduardesouza.github.io/projeto-android/" target="_blank">Projeto Android</a>
+* <a href="https://eduardesouza.github.io/landingpage/" target="_blank">Landingpage</a><br>
+* <a href="https://eduardesouza.github.io/calculator/" target="_blank">Calculadora</a><br>
+* <a href="https://eduardesouza.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a><br>
+* <a href="https://eduardesouza.github.io/projeto-android/" target="_blank">Projeto Android</a>
 
 
 
