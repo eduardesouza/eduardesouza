@@ -5,6 +5,10 @@ Atualmente estudando sobre HTML+CSS e JavaScript.
 
 ## Meus projetos feitos no gitbhub <br>
 <a href="https://eduardesouza.github.io/landingpage/" target="_blank">Landingpage</a>
+<a href="https://eduardesouza.github.io/calculator/" target="_blank">Calculadora</a>
+<a href="https://eduardesouza.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>
+<a href="https://eduardesouza.github.io/projeto-android/" target="_blank">Projeto Android</a>
+
 
 
 
