@@ -3,7 +3,7 @@
 
 Atualmente estudando sobre HTML+CSS e JavaScript.
 
-Meus projetos feitos no gitbhub <br>
+## Meus projetos feitos no gitbhub <br>
 <a href="https://eduardesouza.github.io/landingpage/" target="_blank">Landingpage</a>
 
 
