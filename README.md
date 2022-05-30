@@ -1,7 +1,9 @@
 ## Olá, eu sou o Eduardo de Souza 🖐️
 
 
-Atualmente estudando sobre HTML5+CSS3 e JavaScript. <br>
+🏅Formado em Análise e Desenvolvimento de Sistemas
+
+Atualmente estudando sobre HTML5 + CSS3 + JavaScript + React . <br>
 Aprendendo como criar paginas web focando no conteúdo,design e criar interações entre o usuário e as páginas.
 
 ## Meus projetos feitos no gitbhub <br>
