@@ -8,7 +8,7 @@ Aprendendo como criar paginas web focando no conteúdo,design e criar interaçõ
 
 ## Meus projetos feitos no gitbhub <br>
 * <a href="https://eduardesouza.github.io/landingpage/" target="_blank">Landingpage</a><br>
-* <a href="https://eduardesouza.github.io/calculator/" target="_blank">Calculadora</a><br>
+* <a href="https://eduardesouza.github.io/calculadora/" target="_blank">Calculadora</a><br>
 * <a href="https://eduardesouza.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a><br>
 * <a href="https://eduardesouza.github.io/projeto-android/" target="_blank">Projeto Android</a>
 * <a href="https://eduardesouza.github.io/Clone_HomePage_Instagram/" target="_blank">Login Instagram Clone</a>
