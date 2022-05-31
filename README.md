@@ -1,5 +1,7 @@
 ## Olá, eu sou o Eduardo de Souza 🖐️
-
+Tenho como objetivo ser um bom desenvolvedor.
+Migrar de carreira e trabalhar com programação
+Experiencia com diversas atividades relacionadas na area de TI.
 
 🏅Formado em Análise e Desenvolvimento de Sistemas
 
